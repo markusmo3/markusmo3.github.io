@@ -15,4 +15,4 @@ The redirect is implemented in `index.html` using:
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+This repository is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
